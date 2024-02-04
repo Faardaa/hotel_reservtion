@@ -31,7 +31,7 @@ This Python program implements a simple hotel reservation system using SQLite, d
 
 ## Author
 
-This project was created by [Your Name] as a personal exercise to improve Python programming skills and showcase knowledge of database management and object-oriented programming.
+This project was created by Farda Ahmadli as a personal exercise to improve Python programming skills and showcase knowledge of database management and object-oriented programming.
 
 ## Disclaimer
 
